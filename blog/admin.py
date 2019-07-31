@@ -3,5 +3,5 @@ from .models import Blog
              
 
 admin.site.register(Blog)
-admin.site.register(Photo)
+
 
